@@ -1,0 +1,23 @@
+{
+  "name": "taller-commits",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manudefrutosvila/taller-commits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manudefrutosvila/taller-commits/issues"
+  },
+  "homepage": "https://github.com/manudefrutosvila/taller-commits#readme",
+  "devDependencies": {
+    "@commitlint/cli": "7.0.0",
+    "@commitlint/config-conventional": "7.0.1",
+    "husky": "0.14.3",
+    "standard-version": "4.4.0"
+  }
+}
