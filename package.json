@@ -1,10 +1,11 @@
 {
   "name": "taller-commits",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "commitmsg": "commitlint -E GIT_PARAMS"
+    "commitmsg": "commitlint -E GIT_PARAMS",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
